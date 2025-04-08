@@ -11,5 +11,7 @@
   <modules>
     <module>GeometryUtils</module>
     <module>ThreeDimensionalShapes</module>
+    <module>TwoDimensionalShapes</module>
   </modules>
+
 </project>

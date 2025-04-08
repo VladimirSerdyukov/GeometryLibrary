@@ -1,4 +1,4 @@
-package ru.geometry.figure;
+package ru.geometry;
 
 public class Triangle {
 
